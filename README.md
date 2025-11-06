@@ -3,17 +3,17 @@ A Simple Java File organizer
 
 A simple Java automation tool that organizes files in a folder based on their extensions.
 
-## 🚀 Features
+## Features
 - Automatically sorts files by file type (e.g., `.jpg`, `.pdf`, `.txt`)
 - Creates subfolders dynamically
 - Works on Windows, macOS, and Linux
 
-## 🏗️ Tech Stack
+## Tech Stack
 - Java 17+
 - Java NIO API (for file operations)
 - Maven
 
-## 🧩 Usage
+## Usage
 
 1. Clone the repo:
    ```bash
